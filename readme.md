@@ -13,4 +13,5 @@ This project is a data visualisation capturing the most popular media content on
 Project is created with:
 * Microsoft Excel version: 16.66.1
 
-## Necessary files
+## Setup
+To run the data collected for this project, please open the spreadsheet using Microsoft Excel or any equivalent spreadsheet softwares such as Numbers on Mac.
