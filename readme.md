@@ -12,3 +12,5 @@ This project is a data visualisation capturing the most popular media content on
 ## Technologies
 Project is created with:
 * Microsoft Excel version: 16.66.1
+
+## Necessary files
